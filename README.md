@@ -8,4 +8,11 @@ What you will find here are the same question pool documents imported into Libre
 
 Documents are slowly being reworked to take advantage of LibreOffice styles, table of contents, and other features rather than depending on direct formatting and typewriter style line breaks. The idea is to avoid inconvenient page breaks in the middle of question/answer groups and to allow toggling of highlighting globally with a single style change.
 
-The copyright on the original documents is unstated. Please know what you find here is not my work, but simply a reformattting of the original ARRL documents.
+To remove highlighting:
+1. Open the original ODT document in LibreOffice
+2. Select the menu option Styles > Manage Styles
+3. Select Character Styles
+4. Expand Default Paragraph Font
+5. Edit the Highlighting style and set color to None
+
+Please Note: The copyright on the original documents is unstated. What you find here is not my work, but simply a reformattting of the original ARRL documents.
