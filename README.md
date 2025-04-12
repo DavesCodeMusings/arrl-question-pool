@@ -8,4 +8,4 @@ What you will find here are the same question pool documents imported into Libre
 
 Documents are slowly being reworked to take advantage of LibreOffice styles, table of contents, and other features rather than depending on typewriter style formatting.
 
-The copywrite on the original documents is unstated. Please know what you find here is not my work, but simply a reformattting of the original ARRL documents.
+The copyright on the original documents is unstated. Please know what you find here is not my work, but simply a reformattting of the original ARRL documents.
