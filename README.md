@@ -1,4 +1,4 @@
-# ARRL Questions Study Guide
+# ARRL Questions Study Aid
 
 **This is a work in progress!**
 
