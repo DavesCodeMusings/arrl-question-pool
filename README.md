@@ -11,7 +11,7 @@ Documents are slowly being reworked to take advantage of LibreOffice styles, tab
 To remove highlighting:
 1. Open the original ODT document in LibreOffice
 2. Select the menu option Styles > Manage Styles
-3. Select Character Styles
+3. Select the Character Styles tab
 4. Expand Default Paragraph Font
 5. Edit the Highlighting style and set color to None
 
