@@ -21,5 +21,5 @@ To remove highlighting:
 
 Please Note:
 
-* The copyright on the original documents is unstated. What you find here is not my work, but simply a reformattting of the original ARRL documents.
-* I'm studying for my exams too. I might have some incorrect information in here. Double-check everything.
+* The copyright on the original documents is unstated. Most of what you find here is not my work, but simply a reformattting of the original ARRL documents.
+* The study notes are mine. I'm studying for my exams too. I might have some incorrect information in here. Double-check everything.
