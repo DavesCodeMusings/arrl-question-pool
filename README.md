@@ -17,4 +17,7 @@ To remove highlighting:
 4. Expand Default Paragraph Font
 5. Edit the Highlighting style and set color to None
 
-Please Note: The copyright on the original documents is unstated. What you find here is not my work, but simply a reformattting of the original ARRL documents.
+Please Note:
+
+* The copyright on the original documents is unstated. What you find here is not my work, but simply a reformattting of the original ARRL documents.
+* I'm studying for my exams too. I might have some incorrect information in here. Double-check everything.
