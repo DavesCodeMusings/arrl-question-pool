@@ -2,6 +2,8 @@
 
 **Formatting is still a work in progress for the Technician Pool!**
 
+**I am slowly adding study aids and mnemonics to the General Pool**
+
 The Amateur Radio Relay League (ARRL) publishes [question pools](https://www.arrl.org/question-pools) for those interested in studying for licensing exams. These question pools are downloadable in Micro$oft Word docx and appear to have been formatted with extensive use of line breaks.
 
 What you will find here are the Technician and General question pool documents imported into LibreOffice and highlighted for study. They are available in Open Document (ODF) and as PDF exports.
