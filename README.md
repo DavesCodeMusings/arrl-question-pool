@@ -8,6 +8,8 @@ The Amateur Radio Relay League (ARRL) publishes [question pools](https://www.arr
 
 What you will find here are the Technician and General question pool documents imported into LibreOffice and highlighted for study. They are available in Open Document (ODF) and as PDF exports.
 
+In some cases, like the for General exam's regulation heavy questions, I have added mnemonics and other study aids at the end of sections.
+
 Documents are being reworked to take advantage of LibreOffice styles, table of contents, and other features rather than depending on direct formatting and typewriter style line breaks. The idea is to avoid inconvenient page breaks in the middle of question/answer groups and to allow toggling of highlighting globally with a single style change.
 
 To remove highlighting:
