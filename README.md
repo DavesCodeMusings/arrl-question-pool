@@ -1,8 +1,6 @@
-# ARRL Questions Study Aid
+# Ham Radio Questions Study Aid
 
-**I am slowly adding study aids and mnemonics to the General Pool**
-
-The Amateur Radio Relay League (ARRL) publishes [question pools](https://www.arrl.org/question-pools) for those interested in studying for licensing exams. These question pools are downloadable in Micro$oft Word docx and appear to have been formatted with extensive use of line breaks.
+The National Conference of Volunteer Exam Coordinators (NCVEC) publishes [question pools](https://ncvec.org/index.php/amateur-question-pools) for those interested in studying for licensing exams. These question pools are downloadable in Micro$oft Word docx and appear to have been formatted with extensive use of line breaks.
 
 What you will find here are the Technician and General question pool documents imported into LibreOffice and highlighted for study. They are available in Open Document (ODF) and as PDF exports.
 
@@ -19,5 +17,5 @@ To remove highlighting:
 
 Please Note:
 
-* The copyright on the original documents is unstated. Most of what you find here is not my work, but simply a reformattting of the original ARRL documents.
+* The copyright of the original documents is stated as Public Domain. The reformatted and highlighted documents you'll find here are public domain as well.
 * The study notes are mine. I'm studying for my exams too. I might have some incorrect information in here. Double-check everything.
