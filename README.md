@@ -18,4 +18,5 @@ To remove highlighting:
 Please Note:
 
 * The copyright of the original documents is stated as Public Domain. The reformatted and highlighted documents you'll find here are public domain as well.
-* The study notes are mine. I'm studying for my exams too. I might have some incorrect information in here. Double-check everything.
+* The study notes in the General Pool are mine. I'm studying for my exams too. I might have some incorrect information in here. Double-check everything.
+* The Extra Pool formatting and highlighting is still in progress and in incomplete at this time.
